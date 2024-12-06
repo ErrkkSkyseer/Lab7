@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ชัยธัช ไทยเทศ
+# STUDENT ID: 670610683
